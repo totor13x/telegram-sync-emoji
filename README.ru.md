@@ -13,6 +13,8 @@
 
 ## Описание
 
+![](https://digital-garden.website.yandexcloud.net/images/stuffs/scripts/telegram-status-sync/ca5e8fda-44ea-4a83-958d-9b6219601e99.gif)
+
 Telegram Emoji Sync - это скрипт на pyTelethon, который позволяет синхронизировать состояния фокусирования экосистемы Apple и при желании Discord.
 
 ## Как использовать
